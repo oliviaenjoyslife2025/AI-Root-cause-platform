@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+pydantic
+pydantic-settings
+aioredis
+aiokafka
+langchain
+langchain-openai
+langgraph
+chromadb
+openai
+python-dotenv
+sqlalchemy
+psycopg2-binary
+requests
+httpx
